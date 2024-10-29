@@ -1,0 +1,5 @@
+Aluno: contém id_aluno (PK), rgu (UNIQUE), nome, endereco, e telefone.
+Livro: contém id_livro (PK), codigo_livro (UNIQUE), titulo, autor, localizacao (para a estante/prateleira).
+Professor: contém id_professor (PK), matricula (UNIQUE), nome, sala, telefone.
+Emprestimo: contém id_emprestimo (PK), data_emprestimo, data_prevista_devolucao, data_devolucao, id_aluno (FK para Aluno), id_livro (FK para Livro).
+Bloqueio: contém id_bloqueio (PK), id_professor (FK para Professor), id_livro (FK para Livro), data_bloqueio.
