@@ -20,16 +20,14 @@ Criar um sistema de gerenciamento de empréstimos de livros para a biblioteca de
   <li>Realizar seis consultas, incluindo listagens de empréstimos de 2023, total de exemplares emprestados por sócio, dados de livros com título começando por "A", média de multas, empréstimos com multas superiores a R$ 15,00 e empréstimos em atraso.</li>  
 
    <h2>Diagramas</h2>
-  <div align="center">
-   <img src="https://github.com/bordeguilherme/Database_BI/blob/main/Imagens%20Readme/Postgresql_elephant.svg.png" height="70" width="70">
-    </br>
-    Diagrama Conceitual
-   </div>
-  </br>
    <div align="center">
-   <img src="https://github.com/bordeguilherme/Database_BI/blob/main/Imagens%20Readme/dbeaver-logo-E07205C498-seeklogo.com.png" height="70" width="70">
+   <img src="https://github.com/bordeguilherme/Database_BI/blob/main/AV1%20-%20Biblioteca/Modelo%20L%C3%B3gico.png" width="600px">
     </br>
-   Diagrama Lógico
+   Diagrama UML de Modelo Lógico
+   </br>
+     Declarações das tabelas com as chaves primárias, estrageiras e outras colunas
+   </br>
+     Relacionamentos de cardinalidades de 1 para 0,N.
    </div>
   </br>
 
@@ -58,5 +56,5 @@ Esses elementos visam garantir o controle e a organização dos empréstimos, re
 
 <h2>Autor</h2>  
 <div align="center">
-<a href="https://github.com/bordeguilherme">Gulherme Borde</a>
+<a href="https://github.com/bordeguilherme">Guilherme Borde</a>
   </div>
