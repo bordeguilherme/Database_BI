@@ -5,7 +5,7 @@
   <h1 align="center">Banco de Dados I</h1>
 </br>
   <h2>Descrição</h2>
-Este repositório foi criado para incluir o trabalho correspondentes à disciplina de Banco de Dados I do curso de Ciência de Dados e Business Intelligence. 
+Este repositório foi criado para incluir o trabalho correspondente à disciplina de Banco de Dados I do curso de Ciência de Dados e Business Intelligence. 
 
  <h2>Avaliação</h2>
 Criar um sistema de gerenciamento de empréstimos de livros para a biblioteca de uma universidade.
