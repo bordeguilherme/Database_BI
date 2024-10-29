@@ -9,19 +9,19 @@ Este repositório foi criado para incluir o trabalho correspondentes à discipli
 
   <h2>Tecnologias Utilizadas</h2>
   <div align="center">
-   <img src="https://github.com/bordeguilherme/Limpeza_Arquivos_Temporarios/blob/main/img%20readme/Python.png" height="70" width="70">
+   <img src="https://github.com/bordeguilherme/Database_BI/blob/main/Imagens%20Readme/Postgresql_elephant.svg.png" height="70" width="70">
     </br>
     <a href="https://www.postgresql.org/docs/">PostgreSQL</a>
    </div>
-   
+  </br>
    <div align="center">
-   <img src="https://github.com/ikaro460/projeto-final-react-native/blob/develop/assets/Visual_Studio_Code_1.35_icon.svg.png" height="70" width="70">
+   <img src="https://github.com/bordeguilherme/Database_BI/blob/main/Imagens%20Readme/dbeaver-logo-E07205C498-seeklogo.com.png" height="70" width="70">
     </br>
     <a href="https://dbeaver.com/docs/dbeaver/">DBeaver</a>
    </div>
-   
+  </br>
    <div align="center">
-   <img src="https://github.com/ikaro460/projeto-final-react-native/blob/develop/assets/Visual_Studio_Code_1.35_icon.svg.png" height="70" width="70">
+   <img src="https://github.com/bordeguilherme/Database_BI/blob/main/Imagens%20Readme/base-for-round-logos%403x.png" height="70" width="80">
     </br>
     <a href="https://www.drawio.com/doc/">Draw.io</a>
    </div>
