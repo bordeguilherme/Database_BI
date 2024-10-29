@@ -6,7 +6,7 @@ CREATE TABLE Aluno (
     nome VARCHAR(100) NOT NULL,
     endereco VARCHAR(200),
     telefone VARCHAR(15),
-    CHECK (telefone ~ '^[0-11]+$')
+    CHECK (telefone ~ '^[0-9]+$')
 );
 
 CREATE TABLE Livro (
@@ -23,7 +23,7 @@ CREATE TABLE Professor (
     nome VARCHAR(100) NOT NULL,
     sala VARCHAR(20),
     telefone VARCHAR(15),
-    CHECK (telefone ~ '^[0-11]+$')
+    CHECK (telefone ~ '^[0-9]+$')
 );
 
 CREATE TABLE Emprestimo (
@@ -45,9 +45,9 @@ CREATE TABLE Bloqueio (
 
 INSERT INTO Aluno (rgu, nome, endereco, telefone)
 VALUES 
-    ('12420179', 'Guilherme Borde', 'Rua Indaia, Nº 810', '24992632839'),
-	('11710523', 'Vitoria Borde', 'Rua Quissama, Nº 1165', '21988672962');
-    ('11720191', 'Bernardo Help', 'Rua Henrique Paixao, Nº 20', '24988654321'),
+    ('12420179', 'Guilherme Borde', 'Rua Indaia, N 810', '24992632839'),
+	('11710523', 'Vitoria Borde', 'Rua Quissama, N 1165', '21988672962');
+    ('11720191', 'Bernardo Help', 'Rua Henrique Paixao, N 20', '24988654321'),
     
 
 INSERT INTO Livro (codigo_livro, titulo, autor, localizacao)
